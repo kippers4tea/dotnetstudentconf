@@ -1,0 +1,1 @@
+First session, learning about how powershell doesn't have equivilents to lunix commands; like touch :()
